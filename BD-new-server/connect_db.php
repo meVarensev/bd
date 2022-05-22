@@ -1,0 +1,1 @@
+<?php $pdo = new PDO("mysql:host=localhost;dbname=vitalaqw_book_db;charset=cp1251", "root", ""); ?>
